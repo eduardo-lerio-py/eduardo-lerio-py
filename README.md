@@ -15,7 +15,8 @@ Desenvolvedor Python em início de carreira, focado em **automação de tarefas*
 - [**Jogo do número secreto**](https://github.com/eduardo-lerio-py/jogo-do-numero-secreto): níveis de dificuldade e recordes salvos em arquivo
 - [**Calculadora de gorjeta**](https://github.com/eduardo-lerio-py/calculadora-gorjeta): cálculo com validação de entrada
 - [**Contador de palavras**](https://github.com/eduardo-lerio-py/contador-de-palavras): frequência de palavras em um texto
-
+- [**Gerador de Relatório de Vendas**](https://github.com/eduardo-lerio-py/gerador-relatorio-vendas): leitura de arquivo csv e geração de relatório
+  
 ## Tecnologias
 
 Python, JSON, programação orientada a objetos, Git e GitHub.
